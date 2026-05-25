@@ -1,0 +1,909 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - link "Atlan — top of case study" [ref=e6] [cursor=pointer]:
+      - /url: "#hero"
+      - img "Atlan" [ref=e7]
+      - generic [ref=e8]:
+        - generic [ref=e9]: atlan.
+        - generic [ref=e10]: UX Case Study · 2026
+    - button "Switch to dark theme" [ref=e11] [cursor=pointer]:
+      - img [ref=e12]
+    - navigation "Case study sections" [ref=e14]:
+      - link "00 Hero" [ref=e15] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=e16]: "00"
+        - generic [ref=e18]: Hero
+      - link "01 Problem & Context" [ref=e19] [cursor=pointer]:
+        - /url: "#problem"
+        - generic [ref=e20]: "01"
+        - generic [ref=e22]: Problem & Context
+      - link "02 Persona & Research" [ref=e23] [cursor=pointer]:
+        - /url: "#persona"
+        - generic [ref=e24]: "02"
+        - generic [ref=e26]: Persona & Research
+      - link "03 Process & Ideation" [ref=e27] [cursor=pointer]:
+        - /url: "#process"
+        - generic [ref=e28]: "03"
+        - generic [ref=e30]: Process & Ideation
+      - link "04 Solution Mockups" [ref=e31] [cursor=pointer]:
+        - /url: "#solution"
+        - generic [ref=e32]: "04"
+        - generic [ref=e34]: Solution Mockups
+      - link "05 Outcomes" [ref=e35] [cursor=pointer]:
+        - /url: "#outcomes"
+        - generic [ref=e36]: "05"
+        - generic [ref=e38]: Outcomes
+      - link "06 Honesty & Disclosure" [ref=e39] [cursor=pointer]:
+        - /url: "#honesty"
+        - generic [ref=e40]: "06"
+        - generic [ref=e42]: Honesty & Disclosure
+    - generic [ref=e43]:
+      - generic [ref=e44]: Designer
+      - generic [ref=e45]: Edgar Bonilla
+      - generic [ref=e46]: Status
+      - generic [ref=e47]: Self-initiated concept
+  - main [ref=e48]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - img "Atlan" [ref=e55]
+              - generic [ref=e56]: Self-Initiated Concept
+            - generic [ref=e58]:
+              - generic [ref=e59]: "2026"
+              - generic [ref=e60]: ·
+              - generic [ref=e61]: Edgar Bonilla
+          - heading "An emotionally intelligent coach for athletes with lives." [level=1] [ref=e63]:
+            - text: An emotionally
+            - text: intelligent coach
+            - emphasis [ref=e64]: for athletes with lives.
+          - paragraph [ref=e65]: "A self-initiated UX concept project: an offline-first, bilingual coaching PWA for executive endurance athletes (30–50), built end-to-end solo over ~10 weeks."
+          - generic [ref=e66]:
+            - generic [ref=e67]:
+              - generic [ref=e68]: "7"
+              - generic [ref=e69]: Sections
+            - generic [ref=e70]:
+              - generic [ref=e71]: "7"
+              - generic [ref=e72]: Hi-fi artifacts
+            - generic [ref=e73]:
+              - generic [ref=e74]: 16:1
+              - generic [ref=e75]: AAA contrast
+            - generic [ref=e76]:
+              - generic [ref=e77]: 90/10
+              - generic [ref=e78]: Sage / Hero peak
+        - img "Endurance athlete pushing off at sunrise — pool lane lines and coral floats" [ref=e80]
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - generic [ref=e84]: My role
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - generic [ref=e87]: Owned
+              - generic [ref=e88]: Strategy · Brand system · Design system tokens · IA · All wireframes & hi-fi UI · Wet Mode interaction model · Session Swapper flow · Bilingual onboarding · PWA implementation in code.
+            - generic [ref=e89]:
+              - generic [ref=e90]: Worked across
+              - generic [ref=e91]: Adherence-science synthesis (SDT, sport-psychology) · Competitive teardown · Technical scoping for offline-first PWA.
+            - generic [ref=e92]:
+              - generic [ref=e93]: Gave up
+              - generic [ref=e94]: A real user research panel. This is a concept project — research is secondary literature plus light primary conversations.
+          - emphasis [ref=e96]: "\"Every decision in this case study is one I made and can defend.\""
+        - generic [ref=e97]:
+          - generic [ref=e98]: At a glance
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: Project
+              - generic [ref=e102]: Atlan Performance — Liquid Precision & The Quiet Sage
+            - generic [ref=e103]:
+              - generic [ref=e104]: Type
+              - generic [ref=e105]: Self-initiated UX concept project
+            - generic [ref=e106]:
+              - generic [ref=e107]: Status
+              - generic [ref=e108]: Built (PWA functional); not launched to users
+            - generic [ref=e109]:
+              - generic [ref=e110]: Duration
+              - generic [ref=e111]: ~10 weeks, end-to-end, solo
+            - generic [ref=e112]:
+              - generic [ref=e113]: Platform
+              - generic [ref=e114]: Offline-first PWA · Bilingual ES/EN
+            - generic [ref=e115]:
+              - generic [ref=e116]: Voice mix
+              - generic [ref=e117]: Sage 70 / Hero 30 · No Ruler
+            - generic [ref=e118]:
+              - generic [ref=e119]: Designer
+              - generic [ref=e120]: Edgar Bonilla
+            - generic [ref=e121]:
+              - generic [ref=e122]: Date
+              - generic [ref=e123]: May 2026
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - img [ref=e126]
+          - text: What follows
+        - generic [ref=e128]:
+          - link "01 Problem & Context" [ref=e129] [cursor=pointer]:
+            - /url: "#problem"
+            - generic [ref=e130]: "01"
+            - generic [ref=e131]: Problem & Context
+          - link "02 Persona & Research" [ref=e132] [cursor=pointer]:
+            - /url: "#persona"
+            - generic [ref=e133]: "02"
+            - generic [ref=e134]: Persona & Research
+          - link "03 Process & Ideation" [ref=e135] [cursor=pointer]:
+            - /url: "#process"
+            - generic [ref=e136]: "03"
+            - generic [ref=e137]: Process & Ideation
+          - link "04 Solution Mockups" [ref=e138] [cursor=pointer]:
+            - /url: "#solution"
+            - generic [ref=e139]: "04"
+            - generic [ref=e140]: Solution Mockups
+          - link "05 Outcomes" [ref=e141] [cursor=pointer]:
+            - /url: "#outcomes"
+            - generic [ref=e142]: "05"
+            - generic [ref=e143]: Outcomes
+          - link "06 Honesty & Disclosure" [ref=e144] [cursor=pointer]:
+            - /url: "#honesty"
+            - generic [ref=e145]: "06"
+            - generic [ref=e146]: Honesty & Disclosure
+    - generic [ref=e148]:
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e151]: "01"
+          - text: Problem & Context
+        - heading "The endurance-tech market has solved two problems well, and neither of them is The Optimizer's." [level=2] [ref=e152]:
+          - text: The endurance-tech market has solved two problems well, and
+          - emphasis [ref=e153]: neither of them
+          - text: is The Optimizer's.
+        - paragraph [ref=e154]:
+          - text: Deep-science platforms bury users in periodization telemetry. Social-tracking platforms gamify training into public performance. The Optimizer needs both sides — the rigor
+          - emphasis [ref=e155]: and
+          - text: the adherence support — and neither product is built for them.
+      - generic [ref=e156]:
+        - generic [ref=e157]:
+          - generic [ref=e158]: The two existing positions
+          - list [ref=e159]:
+            - listitem [ref=e160]:
+              - strong [ref=e161]: Deep-science platforms
+              - text: (TrainingPeaks) assume the user has the bandwidth to interpret a CTL/ATL/TSB curve at 9 PM. They have the rigor; they lack the empathy.
+            - listitem [ref=e162]:
+              - strong [ref=e163]: Social-tracking platforms
+              - text: (Strava) use kudos, streaks, and leaderboards as the adherence mechanism. They have the warmth; they lack the depth.
+            - listitem [ref=e164]:
+              - strong [ref=e165]: Swim-specific apps
+              - text: (MySwimPro) split the difference; they do not anchor either pole.
+            - listitem [ref=e166]:
+              - strong [ref=e167]: Sensor companions
+              - text: (FORM) measure beautifully but do not coach.
+        - generic [ref=e168]:
+          - generic [ref=e169]: What The Optimizer actually wants
+          - list [ref=e170]:
+            - listitem [ref=e171]:
+              - strong [ref=e172]: Periodization without the cognitive load.
+              - text: Depth on demand, not depth on display.
+            - listitem [ref=e173]:
+              - strong [ref=e174]: Adherence support without leaderboard pressure.
+              - text: Autonomy, not surveillance.
+            - listitem [ref=e175]:
+              - strong [ref=e176]: A plan that adapts when life moves the plan.
+              - text: Not a plan that turns red when life intervenes.
+            - listitem [ref=e177]:
+              - strong [ref=e178]: Respect for two languages and two contexts
+              - text: — pool deck and laptop, 5:30 AM and 9 PM.
+      - figure "Fig. 01 Where the gap sits — a competitive 2×2 across scientific depth and adherence model. The upper-right quadrant is empty." [ref=e179]:
+        - iframe [ref=e181]:
+          - article [ref=f36e3]:
+            - generic [ref=f36e4]:
+              - generic [ref=f36e5]: Phase 2 · Output 1 · Fig. 01
+              - heading "Where the gap sits." [level=1] [ref=f36e6]
+              - paragraph [ref=f36e7]: A category polarized between depth without empathy and empathy without depth. The empty quadrant is the strategic frame for everything that follows.
+            - generic [ref=f36e8]:
+              - generic [ref=f36e9]: The two axes · Four competitors · One empty quadrant
+              - heading "The Optimizer falls in the gap between TrainingPeaks and Strava." [level=2] [ref=f36e10]
+              - generic [ref=f36e11]:
+                - generic [ref=f36e12]:
+                  - generic [ref=f36e13]: Adherence model
+                  - generic [ref=f36e14]:
+                    - strong [ref=f36e15]: Pressure-based
+                    - text: ←→
+                    - strong [ref=f36e16]: Autonomy-supportive
+                - generic [ref=f36e17]:
+                  - generic [ref=f36e18]:
+                    - generic [ref=f36e25]: Deep · Pressure
+                    - generic [ref=f36e26]: Deep · Autonomy-supportive
+                    - generic [ref=f36e27]: Shallow · Pressure
+                    - generic [ref=f36e28]: Shallow · Autonomy-supportive
+                    - generic [ref=f36e31]:
+                      - generic [ref=f36e32]: TrainingPeaks
+                      - generic [ref=f36e33]: Periodization depth, calendar-as-authority
+                    - generic [ref=f36e36]:
+                      - generic [ref=f36e37]: Strava
+                      - generic [ref=f36e38]: Social-tracking layer, leaderboard-driven
+                    - generic [ref=f36e41]:
+                      - generic [ref=f36e42]: MySwimPro
+                      - generic [ref=f36e43]: Swim-specific structure, streak-aware
+                    - generic [ref=f36e46]:
+                      - generic [ref=f36e47]:
+                        - text: FORM
+                        - superscript [ref=f36e48]: "1"
+                      - generic [ref=f36e49]: Hardware HUD, in-set feedback only
+                    - generic [ref=f36e52]:
+                      - generic [ref=f36e53]: Atlan
+                      - generic [ref=f36e54]: Deep science + autonomy-supportive adherence.
+                      - generic [ref=f36e55]: The empty quadrant the case study has to earn.
+                      - generic [ref=f36e56]:
+                        - generic [ref=f36e57]: → Depth · Task 4 (Why)
+                        - generic [ref=f36e58]: → Autonomy · Tasks 2, 3 (Swapper, Wet Mode)
+                        - generic [ref=f36e59]: → Coexistence · Task 6 (Before/After)
+                  - generic [ref=f36e60]:
+                    - generic [ref=f36e61]: Scientific depth
+                    - generic [ref=f36e62]:
+                      - strong [ref=f36e63]: Shallow
+                      - text: ←→
+                      - strong [ref=f36e64]: Deep
+                  - generic [ref=f36e65]:
+                    - strong [ref=f36e66]: "1."
+                    - text: FORM is plotted on the Y-axis midline because the adherence question doesn't apply — it's hardware with a paired in-set app, not a coaching platform. Output 1 locked this position as
+                    - emphasis [ref=f36e67]: "\"Neutral on adherence.\""
+                  - generic [ref=f36e68]:
+                    - generic [ref=f36e69]:
+                      - generic [ref=f36e70]: X — Scientific depth
+                      - text: How much of the platform's interface is built around explaining the physiological or biomechanical
+                      - emphasis [ref=f36e71]: why
+                      - text: ", vs. just showing the workout or the result."
+                    - generic [ref=f36e72]:
+                      - generic [ref=f36e73]: Y — Adherence model
+                      - text: How the platform responds when life disrupts the plan — by enforcing the calendar, or by adapting around the user without breaking the training stimulus.
+            - generic [ref=f36e74]:
+              - generic [ref=f36e75]: Out of scope by decision · not by omission
+              - generic [ref=f36e76]:
+                - generic [ref=f36e77]:
+                  - generic [ref=f36e78]: Garmin Connect
+                  - generic [ref=f36e79]: Device-tier infrastructure, not a coaching platform — feeds into all four competitors above.
+                - generic [ref=f36e80]:
+                  - generic [ref=f36e81]: TriDot
+                  - generic [ref=f36e82]: AI-coaching positioning is a separate strategic question; closest in coaching philosophy but pulls a different brand frame.
+                - generic [ref=f36e83]:
+                  - generic [ref=f36e84]: Whoop
+                  - generic [ref=f36e85]: Recovery-first product, different category — adjacent but doesn't compete on prescription delivery.
+            - generic [ref=f36e86]:
+              - generic [ref=f36e87]: What this 2×2 deliberately does not measure
+              - heading "Five omissions, named on purpose." [level=3] [ref=f36e88]
+              - generic [ref=f36e89]:
+                - generic [ref=f36e90]:
+                  - generic [ref=f36e91]: ▸
+                  - generic [ref=f36e92]:
+                    - generic [ref=f36e93]: Brand and design polish
+                    - generic [ref=f36e94]: A high-quality interface can partly compensate for a weak adherence model. The 2×2 holds polish constant, which is a simplification.
+                - generic [ref=f36e95]:
+                  - generic [ref=f36e96]: ▸
+                  - generic [ref=f36e97]:
+                    - generic [ref=f36e98]: Coach-marketplace dynamics
+                    - generic [ref=f36e99]: TrainingPeaks' real moat is the network of coaches selling plans on the platform. Atlan does not compete there in v1.
+                - generic [ref=f36e100]:
+                  - generic [ref=f36e101]: ▸
+                  - generic [ref=f36e102]:
+                    - generic [ref=f36e103]: Hardware integration
+                    - generic [ref=f36e104]: Wearables (Garmin, Apple Watch, Whoop) feed into all four competitors. The 2×2 treats hardware as upstream infrastructure rather than as a competitive axis.
+                - generic [ref=f36e105]:
+                  - generic [ref=f36e106]: ▸
+                  - generic [ref=f36e107]:
+                    - generic [ref=f36e108]: Geographic and language coverage
+                    - generic [ref=f36e109]: Atlan's bilingual ES/EN posture is a differentiator the 2×2 doesn't render. It lives in Output 3 and Output 4.
+                - generic [ref=f36e110]:
+                  - generic [ref=f36e111]: ▸
+                  - generic [ref=f36e112]:
+                    - generic [ref=f36e113]: Pricing tiers
+                    - generic [ref=f36e114]: All four competitors have tier structures; price-tier comparisons live in a separate document at Phase 5 if needed.
+              - paragraph [ref=f36e115]: These omissions are not weaknesses of the framing — they are scope decisions. The 2×2 is intentionally narrow so it can do one job well.
+            - generic [ref=f36e116]:
+              - paragraph [ref=f36e117]: The upper-right is empty. The case study has to earn it — and the receipts are in Tasks 2, 3, 4, and 6.
+              - generic [ref=f36e118]:
+                - generic [ref=f36e119]: Source
+                - generic [ref=f36e120]: Phase 2 Output 1 (Competitive 2×2). Every axis, position, omission, and out-of-scope reason verbatim from the locked output.
+                - generic [ref=f36e121]: Figure
+                - generic [ref=f36e122]: FIG. 01 in the case study landing — Section 2 (Problem & Context).
+        - generic [ref=e182]:
+          - generic [ref=e183]: Fig. 01
+          - generic [ref=e184]: Where the gap sits — a competitive 2×2 across scientific depth and adherence model. The upper-right quadrant is empty.
+      - generic [ref=e185]:
+        - text: The upper-right quadrant — Deep
+        - emphasis [ref=e186]: and
+        - text: Autonomy-supportive — is empty. That's where Atlan sits. The case study has to earn it.
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - generic [ref=e190]:
+            - img [ref=e191]
+            - text: The opening scenario
+          - heading "\"The meeting ran late.\"" [level=3] [ref=e193]
+          - paragraph [ref=e194]:
+            - text: "Across the rest of this case study, the design is interrogated against one specific moment: the user is supposed to swim at 6 AM tomorrow. The 9 PM meeting just ran 45 minutes long. The plan they paid for is now suddenly wrong."
+            - strong [ref=e195]: What does the product do?
+          - paragraph [ref=e196]: Every product on the market treats this as a fail-state. The strategic reframe (Section 03) treats it as the default state — and Atlan's job is to absorb it silently.
+        - generic [ref=e197]:
+          - generic [ref=e198]: Disclosure — what this section is not
+          - paragraph [ref=e199]:
+            - text: The 2×2 in Fig. 01 names four competitors directly. It also names
+            - strong [ref=e200]: three out-of-scope categories
+            - text: (consumer wearables, recovery apps, marketplace coaching platforms) and
+            - strong [ref=e201]: five omissions
+            - text: (TrueCoach, Final Surge, Garmin Coach, Zwift, Whoop Coach).
+          - paragraph [ref=e202]: These are competitive teardown notes, not market-share claims. I had no access to retention curves, ARPU, or churn data for any of these products.
+    - generic [ref=e204]:
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e207]: "02"
+          - text: Persona & Research
+        - heading "The Optimizer is a synthesis. Synthesis, not ethnography." [level=2] [ref=e208]:
+          - text: The Optimizer is a synthesis.
+          - emphasis [ref=e209]: Synthesis, not ethnography.
+      - generic [ref=e210]:
+        - generic [ref=e211]: Research-honesty disclosure
+        - paragraph [ref=e212]:
+          - text: The Optimizer is a synthesis persona built from
+          - strong [ref=e213]: secondary research
+          - text: (Self-Determination Theory; adherence literature in endurance sports; app-store reviews and forum threads on TrainingPeaks, Strava, and MySwimPro) and
+          - strong [ref=e214]: informal conversations with athletes in my network.
+        - paragraph [ref=e215]:
+          - text: I did
+          - strong [ref=e216]: not
+          - text: run formal moderated interviews or recruit a research panel. The persona is presented as
+          - emphasis [ref=e217]: synthesis
+          - text: ", not ethnography. No quote in this case study is attributed to an individual."
+      - generic [ref=e218]:
+        - generic [ref=e219]:
+          - generic [ref=e220]:
+            - img [ref=e221]
+            - text: The headline insight
+          - generic [ref=e223]:
+            - text: The Optimizer is not deficient on drive or discipline. They are deficient on
+            - emphasis [ref=e224]: alignment
+            - text: between the two — and the dominant cost driving that misalignment is
+            - emphasis [ref=e225]: cognitive,
+            - text: not physical, fatigue.
+        - generic [ref=e226]:
+          - generic [ref=e227]: Demographics
+          - list [ref=e228]:
+            - listitem [ref=e229]:
+              - text: Executive athlete,
+              - strong [ref=e230]: 30–50
+              - text: ", mid-to-senior professional role"
+            - listitem [ref=e231]:
+              - text: Trains
+              - strong [ref=e232]: 8–12 hours/week
+              - text: — committed but amateur, past beginner phase
+            - listitem [ref=e233]:
+              - strong [ref=e234]: 3–10 years
+              - text: in sport; high tech literacy; tried TrainingPeaks, Strava, swim-specific apps
+            - listitem [ref=e235]:
+              - text: Bilingual
+              - strong [ref=e236]: ES/EN
+              - text: — both languages used across the week
+            - listitem [ref=e237]: High disposable income; pays premium for time savings or sharper results
+      - figure "Fig. 02 The Optimizer — strategic persona card with synthesis disclosure footer." [ref=e238]:
+        - iframe [ref=e240]
+        - generic [ref=e241]:
+          - generic [ref=e242]: Fig. 02
+          - generic [ref=e243]: The Optimizer — strategic persona card with synthesis disclosure footer.
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - generic [ref=e246]: What they value
+          - list [ref=e247]:
+            - listitem [ref=e248]: Scientific rigor
+            - listitem [ref=e249]: Time efficiency
+            - listitem [ref=e250]: Adaptability to real life
+            - listitem [ref=e251]: Sustainable consistency
+            - listitem [ref=e252]: Bilingual respect
+        - generic [ref=e253]:
+          - generic [ref=e254]: What breaks them
+          - list [ref=e255]:
+            - listitem [ref=e256]: Shaming / fail-state copy
+            - listitem [ref=e257]: Cluttered decision-heavy dashboards
+            - listitem [ref=e258]: Consumer-fitness gamification
+            - listitem [ref=e259]: Rigid scheduling
+            - listitem [ref=e260]: Apps that don't work poolside
+      - generic [ref=e262]:
+        - generic [ref=e263]:
+          - generic [ref=e264]:
+            - img [ref=e265]
+            - text: Synthesized voice (composite)
+          - generic [ref=e267]:
+            - text: I don't need more motivation. I need
+            - emphasis [ref=e268]: less guilt
+            - text: when life intervenes.
+          - generic [ref=e269]:
+            - text: Just tell me
+            - emphasis [ref=e270]: why
+            - text: this drill matters. I can handle the science — I just don't have time to look it up.
+          - paragraph [ref=e271]: Composite voice patterns from secondary research and informal conversations. Not attributed to any individual.
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - img [ref=e274]
+            - text: The anti-persona
+          - heading "Who Atlan is not for." [level=3] [ref=e276]
+          - paragraph [ref=e277]:
+            - strong [ref=e278]: The Streaker
+            - text: — motivated by leaderboards, kudos, and unbroken-streak streaks. They are well served by Strava. Adding Streak language to Atlan would dilute the autonomy-supportive frame and chase the wrong adherence mechanism.
+          - paragraph [ref=e279]:
+            - strong [ref=e280]: The Coach-Client
+            - text: — has a paid human coach and uses TrainingPeaks as a prescription delivery layer. Their adherence problem is solved by accountability, not by autonomy support.
+          - paragraph [ref=e281]:
+            - strong [ref=e282]: The Sprint Beginner
+            - text: — under 18 months in sport, still building the discipline base. They need a coach, a clinic, or a beginner-graded product. Atlan assumes a 3–10 year base; everything in the IA does.
+    - generic [ref=e284]:
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - generic [ref=e287]: "03"
+          - text: Process & Ideation
+        - heading "One sentence collapsed dozens of competing screens into a single strategic question." [level=2] [ref=e288]:
+          - text: One sentence collapsed dozens of competing screens into a
+          - emphasis [ref=e289]: single strategic question.
+      - generic [ref=e290]:
+        - text: Life-interruption is the
+        - emphasis [ref=e291]: default state
+        - text: for this user, not the exception. The product's job is to
+        - emphasis [ref=e292]: absorb disruption silently,
+        - text: not to mark it red.
+        - generic [ref=e293]: The reframe that did the work
+      - paragraph [ref=e294]:
+        - text: "From that single sentence, the question every screen has to answer becomes:"
+        - emphasis [ref=e295]: what is the cheapest possible interaction that lets the user keep training when the week breaks?
+        - text: Every IA decision in the product descends from this reframe. The next two figures are how it shows up — first as a journey, then as a dashboard.
+      - generic [ref=e297]:
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - img [ref=e300]
+            - text: Platform choice
+          - heading "Why a PWA, offline-first." [level=3] [ref=e302]
+          - paragraph [ref=e303]:
+            - strong [ref=e304]: The pool locker room has no cellular signal.
+            - text: PWAs with offline-first caching load instantly from local storage. Standard mobile apps assume connectivity.
+          - paragraph [ref=e305]:
+            - strong [ref=e306]: Cross-device continuity.
+            - text: Phone at 5:30 AM, laptop at 9 PM — same product, no install.
+          - paragraph [ref=e307]:
+            - strong [ref=e308]: App-store bypass.
+            - text: A PWA can be shared with a URL.
+        - generic [ref=e309]:
+          - generic [ref=e310]: Trade-offs accepted
+          - list [ref=e311]:
+            - listitem [ref=e312]: Native gestures slightly less crisp than a true native app.
+            - listitem [ref=e313]: iOS PWA push notifications constrained by Safari.
+            - listitem [ref=e314]: HealthKit deep integration limited; we rely on manual entry and webview HRM bridges.
+          - paragraph [ref=e315]: The three constraints above were named before the build, not discovered during it. They are the price of the PWA-first architectural choice.
+      - 'figure "Fig. 03 Journey map — \"The meeting ran late.\" Dual track: competitor pressure-frame vs. Atlan Session Swapper." [ref=e316]':
+        - iframe [ref=e318]
+        - generic [ref=e319]:
+          - generic [ref=e320]: Fig. 03
+          - generic [ref=e321]: "Journey map — \"The meeting ran late.\" Dual track: competitor pressure-frame vs. Atlan Session Swapper."
+      - generic [ref=e322]:
+        - generic [ref=e323]: Disclosure — banned phrases reproduced inside Fig. 03
+        - paragraph [ref=e324]:
+          - text: "The competitor track in Fig. 03 deliberately reproduces banned voice patterns: \"Streak broken,\" the red [MISSED] pill, \"You're 1 day behind plan.\" This is the language Atlan is designed"
+          - emphasis [ref=e325]: against.
+          - text: The contrast is the artifact's core argument; the reproduction is intentional and disclosed.
+      - generic [ref=e327]:
+        - generic [ref=e328]:
+          - generic [ref=e329]:
+            - img [ref=e330]
+            - text: The Session Swapper
+          - heading "Three properties. One gesture. Silent recalc." [level=3] [ref=e332]
+          - paragraph [ref=e333]:
+            - strong [ref=e334]: 1 — Notification-reachable.
+            - text: "The Swapper meets the user where the disruption arrives: push or in-app banner. No deep-link surgery."
+          - paragraph [ref=e335]:
+            - strong [ref=e336]: 2 — One-gesture commit.
+            - text: Swipe to accept the alternative session, or tap "Skip today." Neither path is a fail-state. Both update the plan.
+          - paragraph [ref=e337]:
+            - strong [ref=e338]: 3 — Silent recalc.
+            - text: "The week's periodization rebalances without exposing the math. Depth on demand: tap the metric label to see the rebalanced load."
+        - generic [ref=e339]:
+          - generic [ref=e340]: Locked notification copy
+          - paragraph [ref=e341]: "\"Life happens. Want to swap tomorrow's 6 AM threshold set for a 30-minute easy aerobic on Wednesday? The week still works.\""
+          - paragraph [ref=e343]: Locked from Phase 2 voice review. Sage 60 / Hero 40 on this surface — empathy first ("Life happens"), action second ("Want to swap"), reassurance third ("The week still works").
+      - figure "Fig. 04 Before / After dashboard — 21 elements → 6, 5 charts → 1, 4 pressure mechanics → 0, 0 'Why' affordances → 4. Subtraction as a design move." [ref=e344]:
+        - iframe [ref=e346]
+        - generic [ref=e347]:
+          - generic [ref=e348]: Fig. 04
+          - generic [ref=e349]: Before / After dashboard — 21 elements → 6, 5 charts → 1, 4 pressure mechanics → 0, 0 'Why' affordances → 4. Subtraction as a design move.
+      - generic [ref=e350]:
+        - generic [ref=e351]:
+          - generic [ref=e352]:
+            - img [ref=e353]
+            - text: The dashboard reframe
+          - heading "Subtraction with redirection, not minimalism." [level=3] [ref=e355]
+          - paragraph [ref=e356]:
+            - text: The dashboard was not redesigned to be
+            - emphasis [ref=e357]: simpler.
+            - text: "It was redesigned around one question:"
+            - strong [ref=e358]: what does the user need to decide in the next ten seconds?
+            - text: Everything else moves one tap below the surface.
+          - paragraph [ref=e359]:
+            - text: The "Why" affordances (four of them, all newly added) are the redirection. Depth did not get deleted; it got
+            - emphasis [ref=e360]: relocated.
+        - generic [ref=e361]:
+          - generic [ref=e362]: What this section doesn't show
+          - list [ref=e363]:
+            - listitem [ref=e364]: "The discarded IA explorations: a calendar-first frame, a programs-first frame, a metrics-first frame."
+            - listitem [ref=e365]: The two earlier Wet Mode prototypes that were ergonomically wrong.
+            - listitem [ref=e366]: The Spanish copy versions that landed too literal and were rewritten in parallel.
+            - listitem [ref=e367]: The four-week sprint where the periodization math was wrong and the dashboard lied.
+          - paragraph [ref=e368]: Process is selective by definition. The selection is mine; the alternatives existed.
+    - generic [ref=e370]:
+      - generic [ref=e371]:
+        - generic [ref=e372]:
+          - generic [ref=e373]: "04"
+          - text: Solution Mockups
+        - heading "Three pillars. Three voice ratios. One product." [level=2] [ref=e374]:
+          - text: Three pillars.
+          - emphasis [ref=e375]: Three voice ratios.
+          - text: One product.
+        - paragraph [ref=e376]:
+          - text: The voice mix is locked at
+          - strong [ref=e377]: Sage 70 / Hero 30, no Ruler.
+          - text: But the ratio that
+          - emphasis [ref=e378]: shows up
+          - text: shifts per surface — because the work the voice has to do on each surface is different.
+      - generic [ref=e379]:
+        - generic [ref=e380]:
+          - generic [ref=e381]: Pillar 01
+          - generic [ref=e385]:
+            - strong [ref=e386]: 90% Sage
+            - text: · 10% Hero
+        - heading "Wet Mode — environmental design." [level=3] [ref=e387]
+        - paragraph [ref=e388]:
+          - text: The Optimizer trains at the pool. Standard mobile UX assumes dry fingers and connectivity; neither holds at the pool deck. Wet Mode replaces precision taps with
+          - strong [ref=e389]: gross-motor swipe zones.
+        - generic [ref=e390]:
+          - generic [ref=e391]:
+            - generic [ref=e392]: 320 × 360
+            - generic [ref=e393]: Min touch zone
+            - generic [ref=e394]: ≈25× WCAG 2.2 AA minimum
+          - generic [ref=e395]:
+            - generic [ref=e396]: 16:1
+            - generic [ref=e397]: Contrast ratio
+            - generic [ref=e398]: Exceeds WCAG 2.2 AAA
+          - generic [ref=e399]:
+            - generic [ref=e400]: 144 px
+            - generic [ref=e401]: Display headline
+            - generic [ref=e402]: Largest type in the product
+          - generic [ref=e403]:
+            - generic [ref=e404]: 100%
+            - generic [ref=e405]: Offline persistence
+            - generic [ref=e406]: Architectural rule, not a feature
+        - paragraph [ref=e407]:
+          - strong [ref=e408]: "Gesture grammar:"
+          - text: swipe right = complete set · swipe left = pause · swipe down (long) = exit Wet Mode. The 120 px swipe threshold protects against accidental triggers from water droplets and finger drag from goggle adjustment. The only Coral element on the entire surface is the
+          - emphasis [ref=e409]: Complete
+          - text: swipe zone.
+        - figure "Fig. 05 Wet Mode — lo-fi standard vs. lo-fi Wet Mode side-by-side, hi-fi Wet Mode with annotations, and the four spec floors in dark methodology panel." [ref=e410]:
+          - iframe [ref=e412]
+          - generic [ref=e413]:
+            - generic [ref=e414]: Fig. 05
+            - generic [ref=e415]: Wet Mode — lo-fi standard vs. lo-fi Wet Mode side-by-side, hi-fi Wet Mode with annotations, and the four spec floors in dark methodology panel.
+      - generic [ref=e417]:
+        - generic [ref=e418]:
+          - generic [ref=e419]: Pillar 02
+          - generic [ref=e423]:
+            - strong [ref=e424]: 95% Sage
+            - text: · 5% Hero
+        - heading "The \"Why\" button — depth on demand." [level=3] [ref=e425]
+        - paragraph [ref=e426]:
+          - text: Cluster 4 from the research said cognitive fatigue, not physical fatigue, breaks adherence. The product responds with
+          - strong [ref=e427]: subtraction with redirection
+          - text: — depth lives one tap below the surface, not on it.
+        - generic [ref=e428]:
+          - generic [ref=e429]:
+            - generic [ref=e430]: The "i" affordance
+            - paragraph [ref=e431]:
+              - text: The i button next to a metric label is
+              - strong [ref=e432]: Tide-outlined,
+              - text: not Coral. Coral is reserved for
+              - emphasis [ref=e433]: productive gestures.
+              - text: The "Why" is a Sage affordance — measured, never demanding.
+          - generic [ref=e434]:
+            - generic [ref=e435]: Citation methodology — four operating rules
+            - list [ref=e436]:
+              - listitem [ref=e437]: Every mechanism cites a source — no generic "studies show".
+              - listitem [ref=e438]: Primary text where it exists, canonical secondary text otherwise.
+              - listitem [ref=e439]: One citation per concept — no citation pile-on.
+              - listitem [ref=e440]: Citation is visible in-line, not footer-buried.
+            - generic [ref=e442]: Example — the threshold modal citation
+            - paragraph [ref=e443]:
+              - text: Maglischo, E. W. (2003).
+              - emphasis [ref=e444]: Swimming Fastest
+              - text: (2nd ed.).
+              - text: "Champaign, IL: Human Kinetics, pp. 348–356."
+        - figure "Fig. 06 The \"Why\" button — Screen A daily session · Screen B threshold modal with mechanism, prescription, and verifiable Maglischo (2003) citation." [ref=e445]:
+          - iframe [ref=e447]
+          - generic [ref=e448]:
+            - generic [ref=e449]: Fig. 06
+            - generic [ref=e450]: The "Why" button — Screen A daily session · Screen B threshold modal with mechanism, prescription, and verifiable Maglischo (2003) citation.
+      - generic [ref=e452]:
+        - generic [ref=e453]:
+          - generic [ref=e454]: Pillar 03
+          - generic [ref=e458]:
+            - strong [ref=e459]: 55% Sage
+            - text: · 45% Hero
+        - heading "Bilingual onboarding — cultural design." [level=3] [ref=e460]
+        - paragraph [ref=e461]:
+          - text: Language is selected
+          - strong [ref=e462]: before account creation.
+          - text: Both languages appear at equal visual weight, no default highlighted, no IP geolocation auto-pick.
+          - text: This is the only surface where
+          - emphasis [ref=e463]: Hero leads, briefly
+          - text: — because the first warmth signal a new user receives has to be Hero.
+        - generic [ref=e464]:
+          - generic [ref=e465]:
+            - generic [ref=e466]: EN — locked Welcome line
+            - emphasis [ref=e468]: "\"Built for athletes with lives.\""
+          - generic [ref=e469]:
+            - generic [ref=e470]: ES — locked Welcome line
+            - emphasis [ref=e472]: "\"Hecho para quienes entrenan entre todo lo demás.\""
+            - generic [ref=e473]:
+              - text: Different sentence structure. Same emotional payload.
+              - strong [ref=e474]: That is what parity means.
+        - figure "Fig. 07 Bilingual onboarding sequence — Language · Welcome · Grit Calibration · Tuned. ES parity panel with four operating rules." [ref=e475]:
+          - iframe [ref=e477]
+          - generic [ref=e478]:
+            - generic [ref=e479]: Fig. 07
+            - generic [ref=e480]: Bilingual onboarding sequence — Language · Welcome · Grit Calibration · Tuned. ES parity panel with four operating rules.
+      - generic [ref=e482]:
+        - generic [ref=e483]:
+          - img [ref=e484]
+          - text: The voice ratio map, across all five primary surfaces
+        - generic [ref=e486]:
+          - generic [ref=e487]:
+            - generic [ref=e488]: Wet Mode
+            - generic [ref=e492]:
+              - generic [ref=e493]: 90%
+              - generic [ref=e494]: 10%
+            - generic [ref=e495]: "Only Coral element: the Complete swipe zone."
+          - generic [ref=e496]:
+            - generic [ref=e497]: "\"Why\" modal"
+            - generic [ref=e501]:
+              - generic [ref=e502]: 95%
+              - generic [ref=e503]: 5%
+            - generic [ref=e504]: Zero motivational copy. Strongest Sage surface.
+          - generic [ref=e505]:
+            - generic [ref=e506]: Onboarding Welcome
+            - generic [ref=e510]:
+              - generic [ref=e511]: 55%
+              - generic [ref=e512]: 45%
+            - generic [ref=e513]: The only surface where Hero leads — briefly.
+          - generic [ref=e514]:
+            - generic [ref=e515]: Daily session view
+            - generic [ref=e519]:
+              - generic [ref=e520]: 80%
+              - generic [ref=e521]: 20%
+            - generic [ref=e522]: Workout card + the locked encouragement line.
+          - generic [ref=e523]:
+            - generic [ref=e524]: Session Swapper
+            - generic [ref=e528]:
+              - generic [ref=e529]: 60%
+              - generic [ref=e530]: 40%
+            - generic [ref=e531]: Empathy first, action second, reassurance third.
+    - generic [ref=e534]:
+      - generic [ref=e535]: Liquid Precision
+      - generic [ref=e536]: ·
+      - generic [ref=e537]: Atlan
+    - generic [ref=e539]:
+      - generic [ref=e540]:
+        - generic [ref=e541]:
+          - generic [ref=e542]: "05"
+          - text: Outcomes
+        - heading "What I can claim. What I can't." [level=2] [ref=e543]:
+          - text: What I can claim.
+          - emphasis [ref=e544]: What I can't.
+        - paragraph [ref=e545]:
+          - text: The PWA is functional but has not been launched to users. No user retention curve has been generated. Every outcome below is tagged either
+          - strong [ref=e546]: MEASURED
+          - text: (verified against design files) or
+          - strong [ref=e547]: HYPOTHESIS
+          - text: (with an explicit measurement plan attached).
+      - generic [ref=e548]:
+        - article [ref=e549]:
+          - generic [ref=e550]:
+            - generic [ref=e551]: Measured · Tile 01
+            - generic [ref=e553]: 01 / 03
+          - heading "WCAG 2.2 AA across primary surfaces. AAA on the high-stakes screen." [level=3] [ref=e554]:
+            - text: WCAG 2.2 AA across primary surfaces.
+            - emphasis [ref=e555]: AAA on the high-stakes screen.
+          - generic [ref=e556]:
+            - generic [ref=e557]:
+              - generic [ref=e558]: 11.8:1
+              - generic [ref=e559]: Abyss on Foam
+              - generic [ref=e560]: Exceeds AAA 7:1
+            - generic [ref=e561]:
+              - generic [ref=e562]: 16:1
+              - generic [ref=e563]: Foam on Abyss-deep (Wet Mode)
+              - generic [ref=e564]: Exceeds AAA 7:1
+            - generic [ref=e565]:
+              - generic [ref=e566]: 5.2:1
+              - generic [ref=e567]: Secondary surfaces
+              - generic [ref=e568]: Above AA 4.5:1
+          - paragraph [ref=e569]: "Source: contrast ratios verified against design tokens. Hex values: #0B2A3C · #ECF7F8 · #061a26."
+        - article [ref=e570]:
+          - generic [ref=e571]:
+            - generic [ref=e572]: Hypothesis · Tile 02
+            - generic [ref=e574]: 02 / 03
+          - heading "A 90-day cohort using Atlan would show ≥15% higher session-completion adherence than a TrainingPeaks-style control." [level=3] [ref=e575]:
+            - text: A 90-day cohort using Atlan would show
+            - emphasis [ref=e576]: ≥15% higher session-completion adherence
+            - text: than a TrainingPeaks-style control.
+          - paragraph [ref=e577]: Effect size grounded in the Teixeira et al. (2012) SDT meta-review — autonomy-supportive interventions produce 10–25% adherence improvements vs. controlling conditions in physical-activity contexts.
+          - generic [ref=e578]:
+            - generic [ref=e579]: Measurement plan
+            - list [ref=e580]:
+              - listitem [ref=e581]:
+                - strong [ref=e582]: "Design:"
+                - text: between-subjects cohort, random assignment, pre-registered before recruitment.
+              - listitem [ref=e583]:
+                - strong [ref=e584]: "Participants:"
+                - text: 30–50 per arm, recruited to Optimizer demographic.
+              - listitem [ref=e585]:
+                - strong [ref=e586]: "Duration:"
+                - text: 90+ days; primary metric uses weeks 7–12.
+              - listitem [ref=e587]:
+                - strong [ref=e588]: "Primary metric:"
+                - text: weekly session-completion rate, weeks 7–12.
+              - listitem [ref=e589]:
+                - strong [ref=e590]: "Statistics:"
+                - text: α = 0.05, power = 0.80.
+            - paragraph [ref=e591]:
+              - strong [ref=e592]: "Falsification:"
+              - text: if the 95% CI for the difference crosses zero, the hypothesis is rejected.
+        - article [ref=e593]:
+          - generic [ref=e594]:
+            - generic [ref=e595]: Hypothesis · Tile 03
+            - generic [ref=e597]: 03 / 03
+          - heading "Users with wet hands inside a waterproof pouch complete \"mark set complete\" in Wet Mode ≥40% faster than in a standard mobile interface." [level=3] [ref=e598]:
+            - text: Users with wet hands inside a waterproof pouch complete "mark set complete" in Wet Mode
+            - emphasis [ref=e599]: ≥40% faster
+            - text: than in a standard mobile interface.
+          - paragraph [ref=e600]: Lower error rate, too — predicted from the 320 × 360 px touch-zone floor and the one-direction swipe gesture grammar that Wet Mode commits to.
+          - generic [ref=e601]:
+            - generic [ref=e602]: Measurement plan
+            - list [ref=e603]:
+              - listitem [ref=e604]:
+                - strong [ref=e605]: "Design:"
+                - text: within-subjects counterbalanced.
+              - listitem [ref=e606]:
+                - strong [ref=e607]: "Participants:"
+                - text: 12–18, real pool deck, wet hands, sun glare condition.
+              - listitem [ref=e608]:
+                - strong [ref=e609]: "Primary metric:"
+                - text: time-to-completion across 5 consecutive sets.
+              - listitem [ref=e610]:
+                - strong [ref=e611]: "Secondary:"
+                - text: error rate (false-positive set completes; missed completes).
+            - paragraph [ref=e612]:
+              - strong [ref=e613]: "Falsification:"
+              - text: if the within-subjects mean delta is < 40% OR error rates equalize, the hypothesis is rejected.
+      - generic [ref=e615]:
+        - generic [ref=e616]:
+          - img [ref=e617]
+          - text: Validation roadmap
+        - heading "Five stages, sequenced by empirical cost." [level=3] [ref=e619]
+        - generic [ref=e620]:
+          - generic [ref=e621]:
+            - generic [ref=e622]: "01"
+            - generic [ref=e623]:
+              - generic [ref=e624]: Closed beta
+              - generic [ref=e625]: 5–8 recruited Optimizer-demographic participants. Two weeks. Smoke test for the Wet Mode and Why button affordances.
+          - generic [ref=e626]:
+            - generic [ref=e627]: "02"
+            - generic [ref=e628]:
+              - generic [ref=e629]: Wet Mode in-environment study
+              - generic [ref=e630]: Tile 03 above. Real pool, wet hands, real sun. 12–18 participants. Time-to-action + error rate.
+          - generic [ref=e631]:
+            - generic [ref=e632]: "03"
+            - generic [ref=e633]:
+              - generic [ref=e634]: 90-day adherence cohort
+              - generic [ref=e635]: Tile 02 above. Between-subjects, 30–50 per arm, pre-registered. The expensive one.
+          - generic [ref=e636]:
+            - generic [ref=e637]: "04"
+            - generic [ref=e638]:
+              - generic [ref=e639]: Bilingual cohort sub-analysis
+              - generic [ref=e640]: "From Stage 03 data: parity of completion rate between ES-primary and EN-primary users."
+          - generic [ref=e641]:
+            - generic [ref=e642]: "05"
+            - generic [ref=e643]:
+              - generic [ref=e644]: SME audit of citations
+              - generic [ref=e645]: Every 'Why' modal citation audited by a subject-matter expert. Stage 5, not stage 1, because the citations need to ship first to be audited.
+    - generic [ref=e647]:
+      - generic [ref=e648]:
+        - generic [ref=e649]:
+          - generic [ref=e650]: "06"
+          - text: Honesty & Disclosure
+        - heading "The case study reads as confidently honest, or it doesn't read at all." [level=2] [ref=e651]:
+          - emphasis [ref=e652]: The case study reads as confidently honest,
+          - text: or it doesn't read at all.
+      - generic [ref=e653]:
+        - generic [ref=e654]: Global honesty block
+        - paragraph [ref=e655]:
+          - text: Atlan Performance is a
+          - strong [ref=e656]: self-initiated UX concept project.
+          - text: The PWA is functional but has not been launched to users. The persona is a synthesis from secondary research and informal conversations — not from a recruited research panel. No quote in this case study is attributed to an individual. Numeric claims are tagged
+          - strong [ref=e657]: MEASURED
+          - text: or
+          - strong [ref=e658]: HYPOTHESIS
+          - text: ; hypotheses ship with an explicit measurement plan and a falsification condition.
+      - generic [ref=e659]:
+        - generic [ref=e660]:
+          - generic [ref=e661]:
+            - img [ref=e662]
+            - text: AI-assistance disclosure
+          - heading "Acceleration, not authorship." [level=3] [ref=e664]
+          - paragraph [ref=e665]:
+            - text: The implementation of this PWA used
+            - strong [ref=e666]: Cursor
+            - text: ","
+            - strong [ref=e667]: Claude Code
+            - text: ", and"
+            - strong [ref=e668]: Codex
+            - text: as code-acceleration tools. The case study's web page and deck use Claude Design as a layout-and-render tool.
+          - paragraph [ref=e669]:
+            - strong [ref=e670]: Strategy, IA, persona, voice rules, the reframe, the three pillars, the measurement plans, and every operating rule in this document — those are mine.
+            - text: AI accelerated implementation; AI did not author design strategy.
+        - generic [ref=e671]:
+          - generic [ref=e672]:
+            - img [ref=e673]
+            - text: Persona & citation disclosures
+          - list [ref=e675]:
+            - listitem [ref=e676]:
+              - strong [ref=e677]: Persona.
+              - text: "Composite synthesis. No quote attributed to an individual. Sources: SDT literature, adherence research, app-store reviews, forum threads, informal conversations."
+            - listitem [ref=e678]:
+              - strong [ref=e679]: Banned phrases reproduced in Fig. 03.
+              - text: The competitor track of the journey map deliberately reproduces "Streak broken", "[MISSED]", and "1 day behind plan." This is the language Atlan is designed against; the contrast is intentional and disclosed.
+            - listitem [ref=e680]:
+              - strong [ref=e681]: Citations.
+              - text: Every "Why" modal citation is real and verifiable. Maglischo (2003) is the threshold-modal citation; the four citation methodology rules are operating commitments, not aspirations.
+            - listitem [ref=e682]:
+              - strong [ref=e683]: Teixeira et al. (2012)
+              - text: is a research citation for the SDT effect-size range in Tile 02 — not an Atlan-measured outcome.
+      - generic [ref=e685]:
+        - generic [ref=e686]:
+          - generic [ref=e687]:
+            - img [ref=e688]
+            - text: What's not in scope
+          - list [ref=e690]:
+            - listitem [ref=e691]: A recruited research panel and formal moderated interviews — secondary literature only.
+            - listitem [ref=e692]: HealthKit / Health Connect deep integration — limited under PWA architecture.
+            - listitem [ref=e693]: A coaches-marketplace layer — distinct product surface, intentionally separate.
+            - listitem [ref=e694]: Live retention data — the PWA has not been launched to users.
+            - listitem [ref=e695]: A Spanish version of this case study — the product is bilingual; the case study is English-only by lock from Phase 1.
+        - generic [ref=e696]:
+          - generic [ref=e697]:
+            - img [ref=e698]
+            - text: What I'd do differently
+          - list [ref=e700]:
+            - listitem [ref=e701]:
+              - text: Recruit 5–8 Optimizer-demographic participants and run unstructured interviews
+              - emphasis [ref=e702]: before
+              - text: locking the persona, not after.
+            - listitem [ref=e703]: Run the Wet Mode time-to-action study during, not after, the Wet Mode design.
+            - listitem [ref=e704]: Get a Spanish-native copywriter onto the Welcome and Calibration copy before the artifact shipped.
+            - listitem [ref=e705]: Spend time on a summary form of the case study, not just the full form.
+      - generic [ref=e707]:
+        - img "A solitary athlete on the pool deck at sunrise, looking out across the lanes" [ref=e709]
+        - generic [ref=e711]:
+          - emphasis [ref=e714]:
+            - text: "\"The case study reads as confidently honest, or it doesn't read at all."
+            - text: The next step is a recruited cohort. The next step after that is the data."
+          - generic [ref=e715]:
+            - generic [ref=e716]: Edgar Bonilla
+            - generic [ref=e717]:
+              - text: May 2026 ·
+              - link "erbonilla@outlook.com" [ref=e718] [cursor=pointer]:
+                - /url: mailto:erbonilla@outlook.com
+      - generic [ref=e719]:
+        - generic [ref=e720]:
+          - img "Atlan" [ref=e721]
+          - generic [ref=e722]:
+            - generic [ref=e723]: atlan.
+            - generic [ref=e724]: Performance · Liquid Precision & The Quiet Sage
+        - generic [ref=e725]:
+          - link "View the deck" [ref=e726] [cursor=pointer]:
+            - /url: Atlan Deck.html
+            - text: View the deck
+            - img [ref=e727]
+          - generic [ref=e731]: v0.1 · May 2026
