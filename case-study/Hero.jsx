@@ -1,7 +1,11 @@
 import React from 'react';
 import { ArrowDown } from 'lucide-react';
 import { SECTIONS } from './Rail.jsx';
-import heroPoolUrl from '../assets/photography/fig-hero-pool-sunrise.avif';
+
+// Static public path (copied verbatim by scripts/copy-static.mjs). Used as a
+// plain string rather than a bundler import so client and prerender resolve
+// to the identical URL — no hydration mismatch on the hero <img src>.
+const heroPoolUrl = 'assets/photography/fig-hero-pool-sunrise.avif';
 
 // Atlan Case Study — Hero (Section 1)
 // 3 variants exposed via tweaks panel: Editorial, Magazine, Centered
@@ -21,7 +25,7 @@ function MorningLightSVG({ variant = 'pool' }) {
       style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
       loading="eager"
       decoding="async"
-      fetchPriority="high"
+      fetchpriority="high"
       width="900"
       height="1200"
     />

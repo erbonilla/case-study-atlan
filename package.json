@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "build": "vite build && node scripts/copy-static.mjs",
+    "build": "vite build && vite build --ssr case-study/entry-server.jsx --outDir dist-ssr && node scripts/prerender.mjs && node scripts/copy-static.mjs",
     "preview": "vite preview --host 127.0.0.1"
   },
   "dependencies": {
