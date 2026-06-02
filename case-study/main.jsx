@@ -7,6 +7,7 @@ import './sections.css';
 
 import { Rail } from './Rail.jsx';
 import { Hero } from './Hero.jsx';
+import { SummarySection } from './Summary.jsx';
 import { ProblemSection, PersonaSection, ProcessSection } from './Sections1.jsx';
 import { SolutionSection, OutcomesSection, HonestySection } from './Sections2.jsx';
 
@@ -80,6 +81,7 @@ function App() {
       <Rail theme={theme} onThemeToggle={toggleTheme} />
       <main className="main">
         {t.showHero && <Hero variant={t.heroVariant} scene={t.heroScene} />}
+        <SummarySection />
         {t.showProblem && <ProblemSection />}
         {t.showPersona && <PersonaSection />}
         {t.showProcess && <ProcessSection />}
