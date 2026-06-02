@@ -105,16 +105,12 @@ export function PersonaSection() {
         </div>
 
         <div className="honesty-block">
-          <div className="label" style={{ color: 'var(--coral)' }}>Research-honesty disclosure</div>
+          <div className="label" style={{ color: 'var(--coral)' }}>The sources behind the synthesis</div>
           <p className="body mt-md" style={{ maxWidth: 780 }}>
-            The Optimizer is a synthesis persona built from <strong>secondary research</strong> (Self-Determination Theory;
+            The Optimizer is built from <strong>secondary research</strong> — Self-Determination Theory;
             adherence literature in endurance sports; app-store reviews and forum threads on TrainingPeaks, Strava,
-            and MySwimPro) and <strong>informal conversations with athletes in my network.</strong>
-          </p>
-          <p className="body">
-            I did <strong>not</strong> run formal moderated interviews or recruit a research panel.
-            The persona is presented as <em>synthesis</em>, not ethnography. No quote in this case study
-            is attributed to an individual.
+            and MySwimPro — plus <strong>informal conversations with athletes in my network.</strong>
+            No quote in this case study is attributed to an individual.
           </p>
         </div>
 

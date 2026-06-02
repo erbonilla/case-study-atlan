@@ -206,10 +206,10 @@ function HeroEditorial({ scene }) {
             </p>
 
             <div className="hero-stats">
-              <Stat n="7" l="Sections" />
-              <Stat n="7" l="Hi-fi artifacts" />
               <Stat n="16:1" l="AAA contrast" />
-              <Stat n="90/10" l="Sage / Hero peak" />
+              <Stat n="2" l="Languages, at parity" />
+              <Stat n="~10wk" l="Solo, end-to-end" />
+              <Stat n="90/10" l="Sage · Hero voice" />
             </div>
           </div>
 
@@ -280,11 +280,11 @@ function HeroMagazine({ scene }) {
 
         <div className="hero-mag-bottom">
           <div className="hero-stats hero-stats--wide">
-            <Stat n="7" l="Sections" />
-            <Stat n="7" l="Hi-fi artifacts" />
             <Stat n="16:1" l="AAA contrast (Wet Mode)" />
+            <Stat n="320×360" l="Wet Mode touch zone" />
             <Stat n="2" l="Languages, at parity" />
             <Stat n="~10wk" l="End-to-end solo" />
+            <Stat n="100%" l="Offline-first" />
           </div>
         </div>
 
@@ -343,10 +343,10 @@ function HeroCentered({ scene }) {
         </div>
 
         <div className="hero-stats hero-stats--centered">
-          <Stat n="7" l="Sections" />
-          <Stat n="7" l="Hi-fi artifacts" />
           <Stat n="16:1" l="AAA contrast" />
-          <Stat n="2" l="Languages, parity" />
+          <Stat n="2" l="Languages, at parity" />
+          <Stat n="~10wk" l="Solo, end-to-end" />
+          <Stat n="90/10" l="Sage · Hero voice" />
         </div>
 
         <div className="hero-divider"></div>
