@@ -3,6 +3,20 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script>
+    // No-flash theme: resolve and apply before first paint.
+    (function () {
+      try {
+        var t = localStorage.getItem('atlan-theme');
+        if (t !== 'light' && t !== 'dark') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        var r = document.documentElement;
+        r.dataset.theme = t;
+        r.style.colorScheme = t;
+      } catch (e) {}
+    })();
+  </script>
   <title>Atlan Performance — Liquid Precision &amp; The Quiet Sage · A self-initiated UX case study by Edgar Bonilla</title>
   <meta name="description" content="A self-initiated UX concept project for an emotionally intelligent, offline-first, bilingual coaching PWA for executive endurance athletes." />
   <meta name="theme-color" content="#ECF7F8" media="(prefers-color-scheme: light)" />
