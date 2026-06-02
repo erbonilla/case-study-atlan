@@ -18,17 +18,30 @@ export function Rail({ theme = 'light', onThemeToggle }) {
 
   React.useEffect(() => {
     const sections = SECTIONS.map(s => document.getElementById(s.id)).filter(Boolean);
-    const onScroll = () => {
-      const y = window.scrollY + window.innerHeight * 0.30;
-      let current = SECTIONS[0].id;
-      for (const el of sections) {
-        if (el.offsetTop <= y) current = el.id;
-      }
-      setActive(current);
-    };
-    onScroll();
-    window.addEventListener('scroll', onScroll, { passive: true });
-    return () => window.removeEventListener('scroll', onScroll);
+    if (!sections.length) return;
+
+    // Track each section's visibility ratio and activate the most-visible one.
+    // IntersectionObserver does not depend on which element is the scroll
+    // container, so it is robust to `overflow` quirks on html/body.
+    const ratios = new Map();
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          ratios.set(entry.target.id, entry.isIntersecting ? entry.intersectionRatio : 0);
+        }
+        let current = SECTIONS[0].id;
+        let best = -1;
+        for (const el of sections) {
+          const r = ratios.get(el.id) || 0;
+          if (r > best) { best = r; current = el.id; }
+        }
+        if (best > 0) setActive(current);
+      },
+      { threshold: [0, 0.15, 0.3, 0.5, 0.75, 1], rootMargin: '-15% 0px -55% 0px' }
+    );
+
+    sections.forEach(el => observer.observe(el));
+    return () => observer.disconnect();
   }, []);
 
   return (
