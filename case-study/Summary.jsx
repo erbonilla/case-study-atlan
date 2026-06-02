@@ -103,6 +103,16 @@ export function SummarySection() {
             </a>
           ))}
         </div>
+
+        <div className="skim-howto">
+          <div className="skim-howto-label">How to read what follows</div>
+          <ul className="skim-howto-list">
+            <li><strong>Self-initiated concept</strong> — built, functional, not yet launched to users.</li>
+            <li><strong>Synthesis persona</strong> — secondary research + informal conversations, not a recruited panel.</li>
+            <li><strong>Every number is tagged</strong> <span className="mono">MEASURED</span> or <span className="mono">HYPOTHESIS</span>, with a measurement plan.</li>
+            <li><strong>AI accelerated the build</strong> — the strategy, IA, and voice rules are mine.</li>
+          </ul>
+        </div>
       </div>
     </section>
   );
